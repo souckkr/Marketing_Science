@@ -32,7 +32,7 @@
 | **Member** | [권준혁](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [길지홍](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [서승민](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
-| **Member** | [유연승](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
+| **Member** | [유연승](https://www.linkedin.com/in/yeonseung-yoo-a4bb4b170/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![SQL](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [정주영](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [조보연](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [최지환](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
